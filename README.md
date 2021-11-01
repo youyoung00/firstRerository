@@ -2,9 +2,12 @@
 ============
 이름 혹은 닉네임
 
-이메일 주소
+이메일 주소 : <you889@hanmail.net>
 
 내 블로그
+Link: [PROFILE][profile]
+
+[googlelink]: https://factual-akubra-49f.notion.site/SHIN-d3b13de8b23047bd869a7a737155a13d "Go google"
 
 1. 내가 배운 기술들
 2. 내가 배울 기술들
