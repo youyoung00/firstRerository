@@ -2,8 +2,6 @@
 git 1일차 저장소 생성
 =================
 
-/Users/shinhwanyoo/repositorys/firstRerository/github_IMG.jpeg
-
 여기에 내용을 추가해 보겠습니다.
 
 본문 내용입니다. 약간의 변경
@@ -13,7 +11,7 @@ push Test2
 # 유신환
 ## 세민직업학교 프로그래밍 수강생
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](github_IMG.jpeg)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
