@@ -11,6 +11,7 @@ Link: [PROFILE][profile]
 
 1. 내가 배운 기술들
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 2. 내가 배울 기술들
 3. 내가 만들어본 프로젝트
 4. 내가 참여한 프로젝트
