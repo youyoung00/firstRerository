@@ -4,3 +4,4 @@ git 1일차 저장소 생성
 
 본문 내용입니다. 약간의 변경
 push Test
+push Test2
