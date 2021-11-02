@@ -9,15 +9,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on consistently writing to take note of my progress in daily productivity because I struggle with procrastination
-- 🌱 I’m currently learning how to play guitar, write accademically, make films, and be consistent.
-- 👯 I’m looking to collaborate on music, movies, cool AI stuff, anything I think is fun and worth while. 
+- 🔭 저는 세민직업학교에서 개발자과정을 수료 중에 있습니다.
+- 🌱 저는 AI 바둑분석 프로젝트를 진행하고 있습니다. 
+- 👯 flutter를 통해서 알게 된 개발에 큰 흥미를 느끼고 있습니다.  
 - 🤔 I’m looking for help with how to host a website locally.
-- 💬 Ask me about film theory, italian litterature, editing films, social media, or politics.
-- 📫 How to reach me: rehumilebiagini@gmail.com
-- 🤠 Pronouns: She/Her 
-- ⚡ Fun fact: The clitoris has twice as many nerve endings as the penis
-
+- 📫 How to reach me: icdi880407@gmail.com
 
 Developer 프로필
 ==============
