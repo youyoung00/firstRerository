@@ -65,8 +65,9 @@ Developer 프로필 - This is SHIN!
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=youyoung00)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 9. 내가 만들어본 프로젝트 👇
-
-
 ## 10. 내가 참여한 프로젝트 👇
 ## 11. 목표로 하는 프로젝트 👇
