@@ -7,20 +7,18 @@
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+다음은 간략한 제 소개입니다!
 
 - 🔭 저는 세민직업학교에서 개발자과정을 수료 중에 있습니다.
 - 🌱 저는 AI 바둑분석 프로젝트를 진행하고 있습니다. 
 - 👯 flutter를 통해서 알게 된 개발에 큰 흥미를 느끼고 있습니다.  
-- 🤔 I’m looking for help with how to host a website locally.
-- 📫 How to reach me: icdi880407@gmail.com
+- 🤔 바둑 프로젝트를 성공시키기 위하여 노력을 기울이고 있습니다.
 
-Developer 프로필
+
+Developer 프로필 - This is SHIN!
 ==============
 
-# This is SHIN!
-
-## 1. Contact👇 
+## 1. 연락처👇 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/youyoung00)
 [![Notion](https://img.shields.io/badge/-Notion-blue?style=flat&logo=Linkedin&logoColor=white)](https://factual-akubra-49f.notion.site/SHIN-d3b13de8b23047bd869a7a737155a13d)
@@ -28,14 +26,14 @@ Developer 프로필
 
 
 
-## 2. Lang 👇
+## 2. 프로그래밍 언어 👇
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-## 3. Framework 👇
+## 3. 프레임워크 👇
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -43,7 +41,7 @@ Developer 프로필
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-## 4. Design 👇
+## 4. 디자인 👇
 
 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
